@@ -49,12 +49,22 @@ p{
     width: 45%;
     padding: 105px;
 }
+.third-section{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.fourth-section{
+    display: flexbox;
+}
 h3{
     text-align: center;
     font-size: 30px;
 }
 #recipe{
     text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    
 }
 .box-style{
     box-shadow: 15px 15px 25px grey;
@@ -64,11 +74,23 @@ h3{
     margin: 2%;
     border:px solid white;
     border-radius: 35px;
+    padding: 10px;
 }
 .box-style img{
     width: 95%;
     height: 80%;
     padding: 5px;
+}
+.follower{
+    display: 50%;
+}
+
+footer{
+    background-color: black;
+    padding: 5%;
+    border-radius: 40px;
+    margin: 1%;
+    color: white;
 }
 footer p{
     text-align: center;
